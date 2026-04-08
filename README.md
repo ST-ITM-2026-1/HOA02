@@ -1,4 +1,7 @@
-# HOA02 Enhancing Your Portfolio with JavaScript 
+# HOA02 
+
+## Enhancing Your Portfolio with JavaScript
+
 JAVASCRIPT INTERACTIVITY &amp; DYNAMIC CONTENT
 
 
